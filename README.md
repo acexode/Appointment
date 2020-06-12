@@ -1,2 +1,2 @@
-# Appointmet
+# Appointment
 appointment booking app
